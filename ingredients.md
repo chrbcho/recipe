@@ -1,3 +1,5 @@
+Let's begin!
+
 Ingredients:
 
 200 g green cabbage, chopped into 1" pieces
@@ -8,3 +10,5 @@ Ingredients:
 1 Tbsp toasted sesame seeds
 
 Source: Umami Pot https://umamipot.com/yamitsuki-cabbage/
+
+Enjoy my recipe!
