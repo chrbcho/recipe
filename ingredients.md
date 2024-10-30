@@ -6,3 +6,5 @@ Ingredients:
 ½ Tbsp soy sauce
 1 Tbsp toasted sesame oil
 1 Tbsp toasted sesame seeds
+
+Source: Umami Pot https://umamipot.com/yamitsuki-cabbage/
