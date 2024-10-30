@@ -5,5 +5,3 @@ A) Revert your changes via git revert
 B) Hard reset your changes via git reset --hard
 C) Commit your changes via git commit
 D) Add your saved changes to the staging area via git add
-
-TCDAT-2024 assignment 4 step 8 optional - aborting merge conflicts LOCAL
