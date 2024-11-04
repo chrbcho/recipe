@@ -2,12 +2,12 @@
 # recipe
 line 2 changed remotely
 
-# Yamitsuki Cabbage Recipe
-### A cabbage recipe for a common bar snack dish popular in japanese izakayas. Source recipe from Umama Pot https://umamipot.com/yamitsuki-cabbage/
+# **Yamitsuki Cabbage Recipe**
+### ***A cabbage recipe for a common bar snack dish popular in japanese izakayas. Source recipe from Umama Pot https://umamipot.com/yamitsuki-cabbage/***
 
 Updated instruction files to clarify it is a Yamitsuki Cabbage Recipe
 
-Recipe includes the following ingredients:
+*Recipe includes the following ingredients:*
 * 200 g green cabbage
 * ½ tsp grated garlic
 * 1 tsp Chinese-style chicken bouillon powder
