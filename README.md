@@ -15,5 +15,7 @@ Updated instruction files to clarify it is a Yamitsuki Cabbage Recipe
 * 1 Tbsp toasted sesame oil
 * 1 Tbsp toasted sesame seeds
 
+![Delicious yamitsuki cabbage side dish!](https://umamipot.com/wp-content/uploads/2024/09/yamitsuki-cabbage.jpg "Yamitsuki Cabbage")
+
 last line changed locally
 ### This is a REMOTE change :O
